@@ -1,0 +1,9 @@
+a_str = "This is a example of a string in quotes" # In python the word string is abbreviated as str
+my_float = 5.5
+an_integer = 5 # In python the word integer is abbreviated as int
+shopping_list = ["eggs", "milk", "bread"]
+a_dict = {"userId":"mcamacho"} # dictionary is abbreviated to dict
+my_var = another_variable # varible is abbreviated to var
+test_function = my_function() # function is abbreviated to func
+example_tuple = ("apple", "orange", "pear")
+boolean_values = True # boolean value is abbreviated to bool
